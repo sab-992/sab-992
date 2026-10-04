@@ -51,7 +51,7 @@ reading up on machine learning
 <tr>
 <td>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sab-992&repo=sab-992%2Fdevola&description_lines_count=1&theme=calm)](https://github.com/sab-992/devola)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sab-992&repo=sab-992%2Fdevola&theme=calm)](https://github.com/sab-992/devola)
 
 </td>
 <td>
